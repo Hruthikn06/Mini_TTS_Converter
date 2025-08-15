@@ -1,14 +1,23 @@
-# Mini TTS Converter
+# Mini TTS Converter 🎙️
 
-A mini Python project to convert text to speech using pyttsx3.
+A simple Python project to convert text into speech using **`pyttsx3`**.  
+You can choose voice type, adjust speed, set volume, and even save audio files.
 
-## Features
-- Set voice (male/female)
-- Set speech rate
-- Set volume
-- Speak text or save as audio
-- Menu-driven interface
+---
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the program: `python main.py`
+## ✨ Features
+- 🎤 **Choose Voice** — Male or Female
+- ⏩ **Adjust Speech Rate** — Speak faster or slower
+- 🔊 **Control Volume** — From 0.0 (mute) to 1.0 (max)
+- 🗣 **Speak Text** — Instantly read your input aloud
+- 💾 **Save Audio** — Export speech to an audio file (`.mp3` or `.wav`)
+- 📜 **Menu-Driven Interface** — Easy to navigate options
+
+---
+
+## 📦 Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/mini-tts-converter.git
+   cd mini-tts-converter
+
